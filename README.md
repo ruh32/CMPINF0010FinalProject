@@ -10,5 +10,7 @@ Dailynn Tejeda (djt60@pitt.edu) - https://data.wprdc.org/dataset/pittsburgh-beau
 <br />
 <br />
 Le Lin (lel112@pitt.edu) - https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh: This dataset shows the different fire incidents that took place in neighborhoods in Pittsburgh. This connects to environmental safety because fire releases smoke which is air pollution, so the neighborhood with the fewest incidents to area ratio is the most environmentally safe. 
-
+<br />
+<br />
+What is the best neighborhood? And How did you determine that answer (brief summary of metrics): 
 
